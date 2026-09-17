@@ -2,7 +2,7 @@
 
 This repository contains the analysis notebook for the manuscript:
 
-**An Exploratory Pilot Investigation of Decision Momentum and Frontal Alpha Asymmetry in Pricing-Related Consumer Decisions**
+**Frontal Alpha Asymmetry and Satisfaction-Rating Changes Presentation: An Exploratory Instructed After Price Pilot Study**
 
 This is a **code-only repository**. It provides the Python/Jupyter workflow used to run the EEG and behavioural analyses reported in the manuscript. It does **not** include raw data, de-identified feature data, product images, participant information, or any other study dataset.
 
